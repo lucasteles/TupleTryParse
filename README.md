@@ -7,13 +7,13 @@ var (success, parsedValue) = Parser.TryParseInt(value);
 ```
 
 ## Installing
-To install from Nuget
+Install from Nuget
 
 ```powershell
 Install-Package TuppleTryParse 
 ```
 
-To install from dotnet core CLI
+Install from dotnet core CLI
 
 ```powershell
 dotnet add package TuppleTryParse 

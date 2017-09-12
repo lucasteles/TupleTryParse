@@ -1,4 +1,4 @@
-# TuppleTryParse-Extensions
+# TupleTryParse
 Extensions for use TryParse of types with a tuple result
 
 ```cs

@@ -5,9 +5,10 @@
      <PackageId>TupleTryParse</PackageId>
     <PackageVersion>1.0.1</PackageVersion>
     <Authors>Lucas Teles</Authors>
-    <Description>Extensions for use TryParse of types with a tuple result (https://github.com/lucasteles/TuppleTryParse) </Description>
+    <Description>Extensions for use TryParse of types with a tuple result (https://github.com/lucasteles/TupleTryParse) </Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
+   
     <Copyright></Copyright>
     <PackageTags>Parser Tuple TryParse</PackageTags>
   </PropertyGroup>

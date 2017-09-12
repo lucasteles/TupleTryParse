@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TuppleTryParse
+namespace TupleTryParse
 {
     public static class Parser
     {

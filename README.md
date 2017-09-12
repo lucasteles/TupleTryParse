@@ -10,11 +10,11 @@ var (success, parsedValue) = Parser.TryParseInt(value);
 Install from Nuget
 
 ```powershell
-Install-Package TuppleTryParse 
+Install-Package TupleTryParse 
 ```
 
 Install from dotnet core CLI
 
 ```powershell
-dotnet add package TuppleTryParse 
+dotnet add package TupleTryParse 
 ```

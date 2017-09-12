@@ -2,10 +2,10 @@
 
   <PropertyGroup>
       <TargetFramework>netstandard1.0</TargetFramework> 
-     <PackageId>TuppleTryParse</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+     <PackageId>TupleTryParse</PackageId>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Lucas Teles</Authors>
-    <Description>Extensions for use TryParse of types with a tuple result </Description>
+    <Description>Extensions for use TryParse of types with a tuple result (https://github.com/lucasteles/TuppleTryParse) </Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <Copyright></Copyright>

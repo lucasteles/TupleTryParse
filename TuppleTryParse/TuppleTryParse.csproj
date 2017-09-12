@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+      <TargetFramework>netstandard1.0</TargetFramework> 
+     <PackageId>TuppleTryParse</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Lucas Teles</Authors>
+    <Description>Extensions for use TryParse of types with a tuple result </Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright></Copyright>
+    <PackageTags>Parser Tuple TryParse</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ValueTuple" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>
